@@ -1,0 +1,63 @@
+.title {
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-style: normal;
+  /* background-color: rgb(66, 85, 78); */
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+
+.list {
+  background-color: gray;
+  border-radius: 15px !important;
+}
+/* .card { */
+/* background-color: blue !important; */
+/* } */
+.navbar {
+  background-color: rgb(7, 7, 7);
+  color: whitesmoke;
+}
+.navbar-brand {
+  color: white !important;
+  font-size: 40px !important;
+}
+
+.accordion-body input::placeholder {
+  color: red;
+  /* text-align: center; */
+}
+.btn1 {
+  font-size: 25px !important;
+  text-align: center !important;
+}
+.head title {
+  /* color: green !important; */
+  display: flex;
+  align-items: center;
+}
+/* .accordion-body {
+  background-color: blue !important;
+} */
+.accordion {
+  background-color: blue !important;
+}
+.cardBook:hover {
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.42);
+}
+.containeer {
+  /* background-color: cornflowerblue; */
+  background-image: url(https://proprikol.ru/wp-content/uploads/2019/08/kartinki-na-zadnij-fon-38.jpg);
+  width: 100%;
+}
+
+/* #prevBtn {
+  background-color: aquamarine;
+  color: red;
+} */
+.page-link {
+  background-color: aquamarine !important;
+  color: green !important;
+}
